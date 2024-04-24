@@ -40,7 +40,7 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
   <img width="8" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="25" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" height="25" alt="c# logo"  />
+  <img src="https://c0.klipartz.com/pngpicture/328/221/sticker-png-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-magenta-computer-programming-programming-language.png" height="25" alt="c# logo"  />
 </div>
 
 

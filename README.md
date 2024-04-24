@@ -12,8 +12,8 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
 
 <h3 align="left">Contatos</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0000FF&color:FFF)](mailto:lj-rodrigues@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000FF&color:FFF)](https://www.linkedin.com/in/lj-rodrigues/)
+[![E-mail](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=77C6FF&color:FFF)](mailto:lj-rodrigues@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=77C6FF&color:FFF)](https://www.linkedin.com/in/lj-rodrigues/)
 
 <h3 align="left">Ferramentas</h3>
 

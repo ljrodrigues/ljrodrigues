@@ -32,21 +32,21 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
 <h3 align="left">Ferramentas</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  title="HMTL 5"/>
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title = "CSS" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo" title = "JAVASCRIPT" />
   <img width="8" />
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" height="30" alt="php logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" height="30" alt="php logo" title="PHP" />
   <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png" height="30" alt="vfp logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png" height="30" alt="vfp logo"  title="VISUAL FOX PRÓ"/>
   <img width="8" />
-  <img src="https://www.gezginler.net/indir/resim-grafik/microsoft-sql-server-2012-1356429410.png" height="30" alt="sql logo"  />
+  <img src="https://www.gezginler.net/indir/resim-grafik/microsoft-sql-server-2012-1356429410.png" height="30" alt="sql logo"  title = "MS SQL SERVER"/>
   <img width="8" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="30" alt="mysql logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="30" alt="mysql logo" title="MYSQL" />
   <img width="8" />
-  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" height="30" alt="c# logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" height="30" alt="c# logo" title = ".NET C#" />
 </div>
 
 

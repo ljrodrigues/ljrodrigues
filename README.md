@@ -32,6 +32,12 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
 <h3 align="left">Ferramentas</h3>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="8" />
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" height="30" alt="php logo"  />
   <img width="8" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png" height="30" alt="vfp logo"  />

@@ -43,10 +43,10 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
 </div>
 
 <h3>GitHub Estatística</h3>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ljrodrigues&theme=shadow_blue&show_icons=true)
+  <iframe src="https://github-readme-stats.vercel.app/api?username=ljrodrigues&theme=shadow_blue&show_icons=true">  
 <br>
 
-https://github-readme-stats.vercel.app/api?username=ljrodrigues&theme=shadow_blue&show_icons=true
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ljrodrigues/ljrodrigues/output/github-contribution-grid-snake-dark.svg">

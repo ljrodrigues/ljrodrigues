@@ -29,6 +29,7 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0000FF&color:FFF)](mailto:lj-rodrigues@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000FF&color:FFF)](https://www.linkedin.com/in/lj-rodrigues/)
 
+<h3 align="left">Ferramentas</h3>
 
 <div align="left">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" height="25" alt="php logo"  />
@@ -37,9 +38,9 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
   <img width="8" />
   <img src="https://www.gezginler.net/indir/resim-grafik/microsoft-sql-server-2012-1356429410.png" height="25" alt="sql logo"  />
   <img width="8" />
-  <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" height="25" alt="c# logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="25" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://cdn4.vectorstock.com/i/1000x1000/85/48/devops-symbol-and-icon-software-development-vector-32708548.jpg" height="25" alt="devops logo"  />
+  <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" height="25" alt="c# logo"  />
 </div>
 
 

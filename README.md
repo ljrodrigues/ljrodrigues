@@ -32,15 +32,15 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
 <h3 align="left">Ferramentas</h3>
 
 <div align="left">
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" height="25" alt="php logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" height="30" alt="php logo"  />
   <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png" height="25" alt="vfp logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png" height="30" alt="vfp logo"  />
   <img width="8" />
-  <img src="https://www.gezginler.net/indir/resim-grafik/microsoft-sql-server-2012-1356429410.png" height="25" alt="sql logo"  />
+  <img src="https://www.gezginler.net/indir/resim-grafik/microsoft-sql-server-2012-1356429410.png" height="30" alt="sql logo"  />
   <img width="8" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="25" alt="mysql logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="30" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://c0.klipartz.com/pngpicture/328/221/sticker-png-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-magenta-computer-programming-programming-language.png" height="25" alt="c# logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" height="30" alt="c# logo"  />
 </div>
 
 

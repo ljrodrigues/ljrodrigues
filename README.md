@@ -34,7 +34,10 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
   <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" height="30" alt="c# logo" title = ".NET C#" />
   <img width="8" />
   <img src="https://companieslogo.com/img/orig/LINX-c7c65024.png" height="30" alt="linx logo" title = "ERP LINX" />
-
+  <img width="8" />
+  <img src="https://e7.pngegg.com/pngimages/33/860/png-clipart-atlassian-devops-jira-continuous-integration-confluence-software-development-lifecycle-miscellaneous-blue-thumbnail.png" height="30" alt="devops logo" title = "DEVOPS" />
+  <img width="8" />
+  <img src="https://e7.pngegg.com/pngimages/574/407/png-clipart-jira-software-logo-thumbnail-tech-companies-thumbnail.png" height="30" alt="jira logo" title = "JIRA SOFTWARE" />
   
 </div>
 

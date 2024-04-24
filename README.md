@@ -47,6 +47,10 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="30" alt="mysql logo" title="MYSQL" />
   <img width="8" />
   <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" height="30" alt="c# logo" title = ".NET C#" />
+  <img width="8" />
+  <img src="https://companieslogo.com/img/orig/LINX-c7c65024.png" height="30" alt="linx logo" title = "ERP LINX" />
+
+  
 </div>
 
 

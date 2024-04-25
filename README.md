@@ -42,10 +42,11 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
   
 </div>
 
---<picture>
+<!--<picture>
 --  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ljrodrigues/ljrodrigues/output/github-contribution-grid-snake-dark.svg">
 --  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ljrodrigues/ljrodrigues/output/github-contribution-grid-snake.svg">
 --  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ljrodrigues/ljrodrigues/output/github-contribution-grid-snake.svg">
 --</picture>
+-->
 <br><br>
 

@@ -14,7 +14,7 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
 
 [![E-mail](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=77C6FF&color:FFF)](mailto:lj-rodrigues@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=77C6FF&color:FFF)](https://www.linkedin.com/in/lj-rodrigues/)
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lj-rodrigues" target="_blank">Siga-me no LinkedIn</a>
+[![LinkedIn](https://img.favpng.com/21/14/9/linkedin-united-states-social-media-brand-page-facebook-png-favpng-Q3s40Dnb8UBLm8ShiPqdkXN6B.jpg)]([https://www.linkedin.com/in/lj-rodrigues/](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lj-rodrigues))
 
 <h3 align="left">Ferramentas</h3>
 

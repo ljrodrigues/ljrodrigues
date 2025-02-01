@@ -40,7 +40,7 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
   <img width="8" />
   <img src="https://www.testtriangle.com/wp-content/uploads/2023/08/jira-icon.png" height="30" alt="jira logo" title = "JIRA SOFTWARE" />
   <img width="8" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8zoMzEHRyDa-7n6mnaGSVeSQn41B2xG-C1eBjj9r8mTa5LOgL-WLUpimd9BfKMF_twE&usqp=CAU" height="30" alt="scrum" title = "SCRUM" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-scrum-kanban-agile-software-development-profession-1854494%2F5.html&psig=AOvVaw1QeAgZiWRTFCjcW-ceDQvE&ust=1738532147234000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi5zeaJt6OLAxWrULgEHVAvIg0QjRx6BAgAEBk" height="30" alt="scrum" title = "SCRUM" />
 </div>
 
 <!--<picture>

@@ -39,7 +39,8 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
   <img src="https://www.visma.no/blogg/wp-content/uploads/sites/4/2019/01/1280pxDevopstoolchain.svg_.png" height="30" alt="devops logo" title = "DEVOPS" />
   <img width="8" />
   <img src="https://www.testtriangle.com/wp-content/uploads/2023/08/jira-icon.png" height="30" alt="jira logo" title = "JIRA SOFTWARE" />
-  
+  <img width="8" />
+  <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5571790-icone-scrum-para-web-vetor.jpg" height="30" alt="jira logo" title = "SCRUM" />
 </div>
 
 <!--<picture>

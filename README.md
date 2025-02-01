@@ -28,7 +28,7 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title = "CSS" />
   <img width="8" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS84-FNbFuBfbYaenps2t6_NnBkkR0_7Uh_LyiGl6LYvUCFOFiAbO3Iwm7agvE6qmb_oXk&usqp=CAU" height="30" alt="php logo" title="PHP" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1280px-Webysther_20160423_-_Elephpant.svg.png" height="30" alt="php logo" title="PHP" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo" title = "JAVASCRIPT" />
   <img width="8" />

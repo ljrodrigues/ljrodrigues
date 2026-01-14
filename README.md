@@ -36,7 +36,7 @@ Estou em busca contínua de oportunidades que me permitam aplicar meu conhecimen
   <img width="8" />
   <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" height="30" alt="c# logo" title = ".NET C#" />
   <img width="8" />
-  <img src="https://www.visma.no/blogg/wp-content/uploads/sites/4/2019/01/1280pxDevopstoolchain.svg_.png" height="30" alt="devops logo" title = "DEVOPS" />
+  <img src="https://penguin-technology.com/wp-content/uploads/2023/09/devops-loop-2048x971.png" height="30" alt="devops logo" title = "DEVOPS" />
   <img width="8" />
   <img src="https://www.testtriangle.com/wp-content/uploads/2023/08/jira-icon.png" height="30" alt="jira logo" title = "JIRA SOFTWARE" />
   <img width="8" />
